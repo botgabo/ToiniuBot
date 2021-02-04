@@ -1,6 +1,6 @@
 const help = (prefix, ownerBot, botName) => {
         return `
-「 *${botName}* 」
+「 *${botName} Gabo
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
@@ -44,5 +44,4 @@ const help = (prefix, ownerBot, botName) => {
   ├─ ❏ ${prefix}timer
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2`
-}
-exports.help = help
+Gabo DOMINA 
